@@ -1,0 +1,4 @@
+initialize dynamodb - & java "-Djava.library.path=C:\dynamodb\DynamoDBLocal_lib" -jar "C:\dynamodb\DynamoDBLocal.jar" -sharedDb
+## keep powershell window open while connecting 
+
+
